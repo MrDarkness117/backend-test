@@ -7,10 +7,10 @@ import time
 
 token = 'MGRiYTgwOWUtZDQwMy00ODE0LTllMDQtYTAxMmI4ODc0Njc4'
 
-DB_NAME = 'cxwzeeig'
-DB_USER = 'cxwzeeig'
-DB_PASS = 'KSuRSCVf0zrHvvnEAyd-TN8clg_ihoaR'
-DB_HOST = 'hattie.db.elephantsql.com'
+DB_NAME = 'name'
+DB_USER = 'name'
+DB_PASS = 'pass'
+DB_HOST = 'host'
 DB_PORT = '5432'
 
 
