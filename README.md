@@ -1,5 +1,5 @@
 # backend-test
-Мучения со стороны SQL. Psycogp2, Python.
+Мучения со стороны SQL. Psycogp2, Python. Получение информации с Wildberries API.
 
 Для того чтобы воспользоваться данной библиотекой необходимо запустить venv через командную строку/bash.
 Папка: root/venv/Scripts/
